@@ -11,11 +11,11 @@ from tutorial:
 simple website built with html, css, javascript
 
 start locally:
-    press 'Go Live' at bottom right
+    press 'Go Live' at bottom right of vscode
     (Live Server extension needs to be installed in vscode)
 
 deployed:
-
+    https://chatgpt-website-nick-white.vercel.app/
 
 update:
     git add .
