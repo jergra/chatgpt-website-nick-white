@@ -8,7 +8,7 @@ from tutorial:
 
     by Nick White 
 
-simple website built with html, css, javascript
+simple website built with html, css, javascript, using chatgpt
 
 start locally:
     press 'Go Live' at bottom right of vscode
