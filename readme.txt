@@ -1,0 +1,24 @@
+jan 16,2023
+
+C:/dev/chatgpt-website-nick-white
+
+from tutorial:
+    How I Coded An Entire Website Using ChatGPT
+    https://www.youtube.com/watch?v=ng438SIXyW4&ab_channel=NickWhite
+
+    by Nick White 
+
+simple website built with html, css, javascript
+
+start locally:
+    press 'Go Live' at bottom right
+    (Live Server extension needs to be installed in vscode)
+
+deployed:
+
+
+update:
+    git add .
+    git commit -m 'message'
+    git push
+

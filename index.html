@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Coding Jobs</title>
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Jobs</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <h1>Welcome to Coding Jobs</h1>
+    <p>Here you can find the latest job openings in the field of computer coding.</p>
+    
+    <div id="filter-container">
+      <label for="location-filter">Filter by Location:</label>
+      <select id="location-filter">
+        <option value="all">All</option>
+        <option value="New York, NY">New York, NY</option>
+        <option value="San Francisco, CA">San Francisco, CA</option>
+        <option value="Seattle, WA">Seattle, WA</option>
+        <option value="Boston, MA">Boston, MA</option>
+        <option value="Houston, TX">Houston, TX</option>
+        <option value="Los Angeles, CA">Los Angeles, CA</option>
+      </select>
+    </div>    
+    
+    <div class="job-list-grid" id="job-list"></div>
+
+    <script src='app.js'></script>
+  </main>
+  
+  <footer>
+    <p>Copyright ©2022 Coding Jobs</p>
+  </footer>
+</body>
+</html>
